@@ -11,7 +11,7 @@
 	<groupId>com.jm</groupId>
 	<artifactId>ocr_api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ocr_api</name>
+	<name>ocr-verify-service</name>
 	<description>API for OCR lector verifier project</description>
 	<properties>
 		<java.version>11</java.version>
